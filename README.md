@@ -1,6 +1,4 @@
-
-
-Sobre Mim 👨‍💻
+[![Gmail Badge](https://img.shields.io/badge/-lnzzepphyr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lnzzepphyr@gmail.com)](mailto:lnzzepphyr@gmail.com) [![Github Badge](https://img.shields.io/badge/-MiguelAngeloBM-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MiguelAngeloBM/)](https://www.github.com/MiguelAngeloBM/) <p align='left'>Sobre Mim 👨‍💻
 
 Olá! Meu nome é Miguel Angelo Bicalho Miranda, tenho 19 anos e sou natural de Belo Horizonte, Minas Gerais. Acabei de concluir meu bootcamp da TripleTen como Analista de QA e estou entusiasmado para ingressar no mundo profissional e aplicar os conhecimentos adquiridos durante meu treinamento.
 
@@ -9,6 +7,7 @@ Objetivo 🎯
 Estou em busca de meu primeiro emprego como Analista de Qualidade (QA). Estou pronto para enfrentar desafios e contribuir com minhas habilidades técnicas e minha vontade de aprender e crescer profissionalmente.
 
 Skills 🛠️
+
 
 Testes de Software: Experiência em realizar testes de software para garantir a qualidade e a funcionalidade dos sistemas.
 
@@ -45,11 +44,15 @@ Nascido e criado em Belo Horizonte, Minas Gerais, tenho uma trajetória diversif
 No entanto, minha verdadeira paixão sempre foi a computação. Embora tenha adorado minha jornada na gastronomia, meu coração sempre esteve na tecnologia. Agora, estou em busca de novos horizontes, combinando minha experiência na cozinha com meu amor pela computação. Estou animado para explorar as possibilidades emocionantes que o mundo da tecnologia oferece e estou determinado a aproveitar ao máximo esta oportunidade.
 
 Contato 📞
-Email: seuemail@example.com
-LinkedIn: linkedin.com/in/seu-perfil
-Telefone: +55 (XX) XXXXX-XXXX
+
+Email: Lnzzepphyr@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/miguel-angelo-bicalho-4b54602b9/
+
+Telefone: +55 31 8279-7192
+
 Projetos 🚀
-Projeto 1: Descrição breve do projeto.
-Projeto 2: Descrição breve do projeto.
-Projeto 3: Descrição breve do projeto.
-Sinta-se à vontade para entrar em contato comigo para oportunidades de emprego ou para discutir projetos interessantes!
+
+Projeto 1: https://docs.google.com/spreadsheets/d/1eV40PUZHMnC29AODCZ9dNMpS7FMikPZ2/edit#gid=1221383194
+
+Projeto 2:https://docs.google.com/spreadsheets/d/16BodoTc2V2Y9rHEtBSgl991kLL5_29pbPjJchg4ipVg/edit#gid=0</p><p align='left'> You can view my resume <a href='file:///C:/Users/mevau/Downloads/Miguel-Angelo-Bicalho-Miranda-FlowCV-Resume-20240415%20(2).pdf ' target=_blank><u>here</u>.</a></p>
