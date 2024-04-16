@@ -51,6 +51,8 @@ LinkedIn: https://www.linkedin.com/in/miguel-angelo-bicalho-4b54602b9/
 
 Telefone: +55 31 8279-7192
 
+Curriculo: file:///C:/Users/mevau/Downloads/Miguel-Angelo-Bicalho-Miranda-FlowCV-Resume-20240415%20(2).pdf
+
 Projetos 🚀
 
 Projeto 1: https://docs.google.com/spreadsheets/d/1eV40PUZHMnC29AODCZ9dNMpS7FMikPZ2/edit#gid=1221383194
