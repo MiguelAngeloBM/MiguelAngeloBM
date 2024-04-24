@@ -1,5 +1,5 @@
-## Sobre Mim
-Olá! 👋🏽 Sou o Miguel Ângelo, Sou um profissional motivado e entusiasmado em iniciar minha carreira como analista de QA.= estou
+## Olá! 👋🏽 Sou o Miguel Ângelo,
+ Sou um profissional motivado e entusiasmado em iniciar minha carreira como analista de QA.= estou
 pronto para aplicar meu conhecimento teórico em um ambiente de trabalho dinâmico. Possuo habilidades
 de resolução de problemas, atenção aos detalhes e uma abordagem analítica para garantir a qualidade do
 software. Sou comprometido com o aprendizado contínuo e estou pronto para enfrentar novos desafios
