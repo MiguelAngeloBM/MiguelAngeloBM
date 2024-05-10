@@ -12,8 +12,7 @@ software. Sou comprometido com o aprendizado contínuo e estou pronto para enfre
 [![Ágil SCRUM](https://img.shields.io/badge/%C3%81gil%20SCRUM-4CAF50?style=for-the-badge&logo=Jenkins&logoColor=white)](link_para_agil_scrum)
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](link_para_o_Jira)
 
-### Projetos
-Confira meus projetos no GitHub: [GitHub](https://www.github.com/MiguelAngeloBM/)
+
 
 ## Próximos Estudos
 Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Alguns dos meus próximos estudos incluem:
@@ -30,4 +29,5 @@ Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologi
 [![GitHub](https://img.shields.io/badge/-MiguelAngeloBM-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MiguelAngeloBM/)](https://www.github.com/MiguelAngeloBM/)
 [![LinkedIn](https://img.shields.io/badge/-Miguel%20Ângelo%20Bicalho-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angelo-bicalho-4b54602b9/)](https://www.linkedin.com/in/miguel-angelo-bicalho-4b54602b9/)
 [![Telefone](https://img.shields.io/badge/-+55%2031%208279--7192-007ACC?style=flat&logo=Phone&logoColor=white)](tel:+553182797192)
+
 Obrigado! =)
