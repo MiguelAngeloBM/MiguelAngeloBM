@@ -1,8 +1,16 @@
 ## Olá! 👋🏽 Sou o Miguel Ângelo,
- Sou um profissional motivado e entusiasmado em iniciar minha carreira como analista de QA. Estou
-pronto para aplicar meu conhecimento teórico em um ambiente de trabalho dinâmico. Possuo habilidades
-de resolução de problemas, atenção aos detalhes e uma abordagem analítica para garantir a qualidade do
-software. Sou comprometido com o aprendizado contínuo e estou pronto para enfrentar novos desafios
+Meu nome é Miguel Angelo Bicalho Miranda e nasci e cresci em Belo Horizonte, mais precisamente no bairro de Santa Maria. Minha vida começou com dificuldades, aos 10 anos eu já estava trabalhando, vendendo balas nos sinais da cidade para ajudar a complementar a renda da família.
+
+Aos 14 anos, consegui meu primeiro emprego formal como auxiliar em uma pastelaria local. Foi lá que minha paixão pela gastronomia começou a ganhar forma. Cada dia eu absorvia novos conhecimentos, novas técnicas, alimentando meu sonho de me tornar um grande chef.
+
+Com muito esforço e dedicação, aos 15 anos, juntei dinheiro o suficiente para começar meu curso de gastronomia no Instituto Gourmet. Foi uma experiência transformadora, onde aprimorei minhas habilidades culinárias e ampliei meus horizontes.
+
+Aos 16 anos, decidi dar um passo ousado em direção à independência. Deixei minha casa em Belo Horizonte e parti com minha namorada para Ouro Preto, uma cidade encantadora de Minas Gerais. Lá, mergulhei de cabeça no mundo da gastronomia, trabalhando nos restaurantes da Praça Tiradentes e participando de eventos por toda a região, incluindo os prestigiados Festivais da Jabuticaba e da Banana.
+
+Apesar do sucesso na gastronomia, sempre tive um interesse forte pelo mundo da tecnologia. Aos 18 anos, decidi unir minhas paixões, combinando meus conhecimentos na cozinha com minha afinidade pela internet. Assim, comecei a criar e-books que exploravam receitas e dicas culinárias, utilizando a plataforma online para compartilhar meu conhecimento com o mundo.
+Com o tempo, descobri uma nova paixão: a análise de qualidade (QA). Assim como na cozinha, onde a qualidade dos ingredientes e o cuidado com o preparo são essenciais para o sucesso de um prato, na análise de qualidade, a atenção aos detalhes e a busca pela excelência são fundamentais para garantir a funcionalidade e a usabilidade de um produto digital.
+
+Meus conhecimentos em gastronomia me proporcionaram uma abordagem única para a análise de qualidade. Assim como um chef prova cada prato antes de servi-lo, eu testo meticulosamente cada funcionalidade de um site ou aplicativo, garantindo que tudo funcione perfeitamente antes de ser lançado para o público. Minha experiência na cozinha também me ensinou a pensar de forma criativa e a buscar soluções inovadoras para os problemas que surgem durante o processo de desenvolvimento.
 
 ### Ferramentas
 [![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](link_para_design_de_testes)
