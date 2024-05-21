@@ -12,7 +12,7 @@ Com o tempo, descobri uma nova paixão: a análise de qualidade (QA). Assim como
 
 Meus conhecimentos em gastronomia me proporcionaram uma abordagem única para a análise de qualidade. Assim como um chef prova cada prato antes de servi-lo, eu testo meticulosamente cada funcionalidade de um site ou aplicativo, garantindo que tudo funcione perfeitamente antes de ser lançado para o público. Minha experiência na cozinha também me ensinou a pensar de forma criativa e a buscar soluções inovadoras para os problemas que surgem durante o processo de desenvolvimento.
 
-Após descobrir minha paixão pela análise de qualidade, fiz um bootcamp na TripleTen para aprofundar meus conhecimentos em ferramentas como Jira, Postman, Figma e Excel. Combinando minhas habilidades em gastronomia com a análise de qualidade, encontrei uma abordagem única e meticulosa para garantir a excelência em produtos digitais. Cada projeto de teste foi uma oportunidade de aplicar meus conhecimentos em um ambiente prático, preparando-me para enfrentar desafios futuros com confiança e criatividade.
+Após descobrir minha paixão pela análise de qualidade, fiz um bootcamp na TripleTen para aprofundar meus conhecimentos em ferramentas como Jira, Postman, Figma e Excel, Sql. Combinando minhas habilidades em gastronomia com a análise de qualidade, encontrei uma abordagem única e meticulosa para garantir a excelência em produtos digitais. Cada projeto de teste foi uma oportunidade de aplicar meus conhecimentos em um ambiente prático, preparando-me para enfrentar desafios futuros com confiança e criatividade.
 
 ### Ferramentas
 [![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](link_para_design_de_testes)
