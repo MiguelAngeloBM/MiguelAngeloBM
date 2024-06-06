@@ -27,11 +27,11 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 ## Próximos Estudos
 Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Alguns dos meus próximos estudos incluem:
 
-- [![Automação de Testes com Cypress](https://img.shields.io/badge/Automação%20de%20Testes%20com%20Cypress-00897B?style=for-the-badge&logo=Cypress&logoColor=white)](link_para_cypress)
-- [![Testes de API Avançados](https://img.shields.io/badge/Testes%20de%20API%20Avançados-FF6F00?style=for-the-badge&logo=Postman&logoColor=white)](link_para_testes_de_api_avancados)
-- [![SQL Avançado](https://img.shields.io/badge/SQL%20Avançado-009688?style=for-the-badge&logo=MySQL&logoColor=white)](link_para_sql_avancado)
-- [![Lógica de Programação em Python](https://img.shields.io/badge/Lógica%20de%20Programação%20em%20Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](link_para_logica_python)
-- [![Gestão de Projetos com Jira](https://img.shields.io/badge/Gestão%20de%20Projetos%20com%20Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](link_para_gestao_jira)
+
+- ![HTML e CSS](https://img.shields.io/badge/HTML%20%26%20CSS-333333?style=flat&logo=html5) Lógica em HTML e CSS
+- ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript) Lógica em JavaScript
+- ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python) Lógica em Python
+
 
 
 ### Contato
