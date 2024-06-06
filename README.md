@@ -15,13 +15,13 @@ Meus conhecimentos em gastronomia me proporcionaram uma abordagem única para a 
 Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas como Jira, Postman, Figma e Excel, Sql. Combinando minhas habilidades em gastronomia com a análise de qualidade, encontrei uma abordagem única e meticulosa para garantir a excelência em produtos digitais. Cada projeto de teste foi uma oportunidade de aplicar meus conhecimentos em um ambiente prático, preparando-me para enfrentar desafios futuros com confiança e criatividade.
 
 ### Ferramentas
-- ![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-333333?style=flat&logo=test) Design de Testes
-- ![Testes Web](https://img.shields.io/badge/Testes%20Web-333333?style=flat&logo=selenium) Testes Web
-- ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman) Testes com Postman
-- ![SQL/Banco de Dados](https://img.shields.io/badge/SQL%2FBanco%20de%20Dados-333333?style=flat&logo=postgresql) SQL/Banco de Dados
-- ![Ágil](https://img.shields.io/badge/%C3%81gil-333333?style=flat&logo=agile) Ágil
-- ![SCRUM](https://img.shields.io/badge/SCRUM-333333?style=flat&logo=scrum) SCRUM
-- ![JIRA](https://img.shields.io/badge/JIRA-333333?style=flat&logo=jira) JIRA
+- ![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-333333?style=flat&logo=test) 
+- ![Testes Web](https://img.shields.io/badge/Testes%20Web-333333?style=flat&logo=selenium) 
+- ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman) 
+- ![SQL/Banco de Dados](https://img.shields.io/badge/SQL%2FBanco%20de%20Dados-333333?style=flat&logo=postgresql) 
+- ![Ágil](https://img.shields.io/badge/%C3%81gil-333333?style=flat&logo=agile) 
+- ![SCRUM](https://img.shields.io/badge/SCRUM-333333?style=flat&logo=scrum) 
+- ![JIRA](https://img.shields.io/badge/JIRA-333333?style=flat&logo=jira) 
 
 
 
