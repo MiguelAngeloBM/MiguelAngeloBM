@@ -15,12 +15,13 @@ Meus conhecimentos em gastronomia me proporcionaram uma abordagem única para a 
 Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas como Jira, Postman, Figma e Excel, Sql. Combinando minhas habilidades em gastronomia com a análise de qualidade, encontrei uma abordagem única e meticulosa para garantir a excelência em produtos digitais. Cada projeto de teste foi uma oportunidade de aplicar meus conhecimentos em um ambiente prático, preparando-me para enfrentar desafios futuros com confiança e criatividade.
 
 ### Ferramentas
-[![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=white)](link_para_design_de_testes)
-[![Testes Web](https://img.shields.io/badge/Testes%20Web-FF5722?style=for-the-badge&logo=Selenium&logoColor=white)](link_para_testes_web)
-[![POSTMAN](https://img.shields.io/badge/POSTMAN-FF6F00?style=for-the-badge&logo=Postman&logoColor=white)](link_para_testes_de_api)
-[![SQL/Banco de Dados](https://img.shields.io/badge/SQL%2FBanco%20de%20Dados-009688?style=for-the-badge&logo=MySQL&logoColor=white)](link_para_sql_ou_banco_de_dados)
-[![Ágil SCRUM](https://img.shields.io/badge/%C3%81gil%20SCRUM-4CAF50?style=for-the-badge&logo=Jenkins&logoColor=white)](link_para_agil_scrum)
-[![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](link_para_o_Jira)
+- ![Design de Testes](https://img.shields.io/badge/Design%20de%20Testes-333333?style=flat&logo=test) Design de Testes
+- ![Testes Web](https://img.shields.io/badge/Testes%20Web-333333?style=flat&logo=selenium) Testes Web
+- ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman) Testes com Postman
+- ![SQL/Banco de Dados](https://img.shields.io/badge/SQL%2FBanco%20de%20Dados-333333?style=flat&logo=postgresql) SQL/Banco de Dados
+- ![Ágil](https://img.shields.io/badge/%C3%81gil-333333?style=flat&logo=agile) Ágil
+- ![SCRUM](https://img.shields.io/badge/SCRUM-333333?style=flat&logo=scrum) SCRUM
+- ![JIRA](https://img.shields.io/badge/JIRA-333333?style=flat&logo=jira) JIRA
 
 
 
