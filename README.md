@@ -29,9 +29,9 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Alguns dos meus próximos estudos incluem:
 
 
-- ![HTML e CSS](https://img.shields.io/badge/HTML%20%26%20CSS-333333?style=flat&logo=html5) Lógica em HTML e CSS
-- ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript) Lógica em JavaScript
-- ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python) Lógica em Python
+- ![HTML e CSS](https://img.shields.io/badge/HTML%20%26%20CSS-333333?style=flat&logo=html5) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript) 
+
 
 
 
