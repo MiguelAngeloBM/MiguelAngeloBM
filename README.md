@@ -37,7 +37,9 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 <a href="https://www.cypress.io/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" alt="Cypress" width="40" height="40"/>
 </a>
-
+<a href="https://www.cypress.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" alt="Cypress" width="40" height="40"/>
+</a>
 
 
 ## Próximos Estudos
