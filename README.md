@@ -28,6 +28,7 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </a>
+<img src="caminho/para/seu/cypress-white-bg.svg" alt="Cypress" width="40" height="40">
 
 
 ## Próximos Estudos
