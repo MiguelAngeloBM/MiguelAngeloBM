@@ -28,27 +28,6 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </a>
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" alt="Cypress" width="40" height="40"/>
-</a>   
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" alt="Cypress" width="40" height="40"/>
-</a>
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg" alt="Cypress" width="40" height="40"/>
-</a>
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" alt="Cypress" width="40" height="40"/>
-</a>
-<a href="https://www.cypress.io/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line-wordmark.svg" alt="Cypress" width="40" height="40"/>
-</a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
-![Cypress](https://skillicons.dev/icons?i=cypress)
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <rect width="128" height="128" fill="white"/>
-  <path d="M64 0C28.6 0 0 28.7 0 64s28.6 64 64 64 64-28.7 64-64S99.4 0 64 0zM50.5 38.7h7.6c.1 0 .3 0 .3.1l15.4 27.6-15.9 28.3c-.1.1-.1.2-.3.2h-7.5c-.1 0-.2 0-.3-.2L34.4 66.3c-.1-.1-.1-.2 0-.3zm44.6 0c.1 0 .2 0 .3.1l5.5 3.2c.2.1.3.2.3.4v6.6c0 .1 0 .3-.1.4l-6.9 3.9v.1l6.9 4v.1c.1.1.1.2.1.4v6.7c0 .2-.1.3-.3.4l-5.5 3.2c-.1.1-.3.1-.4 0L83 66.2v7.8c0 .2-.1.3-.3.4l-4.8 2.7c-.1.1-.3.1-.4 0l-5.4-3.2c-.1-.1-.2-.2-.2-.4v-21c0-.2.1-.3.2-.4l5.4-3.2c.1-.1.3-.1.4 0l4.8 2.7c.2.1.3.2.3.4v7.8l11.6-6.7zm-10.1 15.2-4.6 2.6v.1l4.6 2.7 4.6-2.7v-.1zm-23.5 7.9c.1-.1.3-.1.4.1l3.8 6.7
 
 
 ## Próximos Estudos
