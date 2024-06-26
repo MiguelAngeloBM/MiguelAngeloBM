@@ -21,6 +21,9 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://skillicons.dev)
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
+
 
 
 
