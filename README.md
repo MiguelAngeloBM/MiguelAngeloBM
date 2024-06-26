@@ -44,6 +44,8 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line-wordmark.svg" alt="Cypress" width="40" height="40"/>
 </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+![Cypress](https://skillicons.dev/icons?i=cypress)
+
 
 ## Próximos Estudos
 Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Alguns dos meus próximos estudos incluem:
