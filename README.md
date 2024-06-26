@@ -17,6 +17,8 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 ### Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://skillicons.dev)
+
 
 
 ## Próximos Estudos
