@@ -93,3 +93,4 @@ Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologi
 [![Telefone](https://img.shields.io/badge/-+55%2031%208279--7192-007ACC?style=flat&logo=Phone&logoColor=white)](tel:+553182797192)
 
 𝘚𝘦 𝘦𝘶 𝘯𝘢𝘰 𝘧𝘰𝘳 𝘰 𝘮𝘢𝘪𝘴 𝘵𝘢𝘭𝘦𝘯𝘵𝘰𝘴𝘰 𝘷𝘰𝘶 𝘴𝘦𝘳 𝘰 𝘮𝘢𝘪𝘴 𝘦𝘴𝘧𝘰𝘳ç𝘢𝘥𝘰
+
