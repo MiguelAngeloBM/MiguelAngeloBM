@@ -68,9 +68,20 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
 ## Próximos Estudos
 Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Alguns dos meus próximos estudos incluem:
 
+ <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
 
-- ![HTML e CSS](https://img.shields.io/badge/HTML%20%26%20CSS-333333?style=flat&logo=html5) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript) 
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
 
 
 
