@@ -63,6 +63,11 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
 
+ <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+
 </div>
 
 ## Próximos Estudos
