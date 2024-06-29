@@ -68,6 +68,11 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+
 </div>
 
 ## Próximos Estudos
