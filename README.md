@@ -98,7 +98,7 @@ Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologi
 
 ### Contato
 [![E-mail](https://img.shields.io/badge/-lnzzepphyr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lnzzepphyr@gmail.com)](mailto:lnzzepphyr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Miguel%20Ângelo%20Bicalho-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angelo-bicalho-4b54602b9/)](https://www.linkedin.com/in/miguel-angelo-bicalho-4b54602b9/)
+[![LinkedIn](https://img.shields.io/badge/-Miguel%20Ângelo%20Bicalho-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-angelo-bicalho-4b54602b9/)](https://www.linkedin.com/in/miguelangelobm/)
 [![Telefone](https://img.shields.io/badge/-+55%2031%208279--7192-007ACC?style=flat&logo=Phone&logoColor=white)](tel:+5531982797192)
 
 𝘚𝘦 𝘦𝘶 𝘯𝘢𝘰 𝘧𝘰𝘳 𝘰 𝘮𝘢𝘪𝘴 𝘵𝘢𝘭𝘦𝘯𝘵𝘰𝘴𝘰 𝘷𝘰𝘶 𝘴𝘦𝘳 𝘰 𝘮𝘢𝘪𝘴 𝘦𝘴𝘧𝘰𝘳ç𝘢𝘥𝘰
