@@ -72,16 +72,16 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
+   <!-- k6 -->
+  <a href="https://k6.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
+  </a>
 
 </div>
 
 ## Próximos Estudos
 Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Alguns dos meus próximos estudos incluem:
 
- <!-- k6 -->
-  <a href="https://k6.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
-  </a>
 
 
 
