@@ -39,9 +39,9 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
   </a>
 
   <!-- Cypress -->
-  <a href="https://www.cypress.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
-  </a>
+<a href="https://github.com/MiguelAngeloBM/Green_Cycle_Qa" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
+</a>
 
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank">
