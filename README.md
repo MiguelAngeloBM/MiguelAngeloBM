@@ -75,10 +75,10 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
    <!-- k6 -->
   <a href="https://k6.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
-      <!-- Selenium -->
-  <a href="https://www.selenium.dev/" target="_blank">
-    <i class="devicon-selenium-original"></i>
-  </a>
+    <!-- Selenium -->
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
+</a>
 
   <!-- JUnit -->
   <a href="https://junit.org/junit5/" target="_blank">
