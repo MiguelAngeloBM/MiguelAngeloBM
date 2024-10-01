@@ -75,6 +75,25 @@ Fiz um bootcamp na Tripleten para aprofundar meus conhecimentos em ferramentas c
    <!-- k6 -->
   <a href="https://k6.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" alt="k6" width="40" height="40"/>
+      <!-- Selenium -->
+  <a href="https://www.selenium.dev/" target="_blank">
+    <i class="devicon-selenium-original"></i>
+  </a>
+
+  <!-- JUnit -->
+  <a href="https://junit.org/junit5/" target="_blank">
+    <i class="devicon-junit-plain"></i>
+  </a>
+
+  <!-- Azure DevOps -->
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank">
+    <i class="devicon-azuredevops-plain"></i>
+  </a>
+
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  </a>
   </a>
 
 </div>
